@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayGoodbye1", "SayGoodbye1\SayGoodbye1.csproj", "{E10164AF-41C7-4844-B34D-EAF19ED0399D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayGoodbyeTests1", "SayGoodbyeTests1\SayGoodbyeTests1.csproj", "{AD926288-9A07-428B-8139-961C05FEB625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10164AF-41C7-4844-B34D-EAF19ED0399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10164AF-41C7-4844-B34D-EAF19ED0399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10164AF-41C7-4844-B34D-EAF19ED0399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10164AF-41C7-4844-B34D-EAF19ED0399D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD926288-9A07-428B-8139-961C05FEB625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD926288-9A07-428B-8139-961C05FEB625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD926288-9A07-428B-8139-961C05FEB625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD926288-9A07-428B-8139-961C05FEB625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
